@@ -1,0 +1,8 @@
+<!--projects/index/welcome.wxml-->
+<view class = "container">
+  <image src="/image/1.jpg" class = "user-image"></image>
+  <text class = "user-name">{{welcome}} </text>
+<view class = "moveto-container">
+   <text class = "moveto">开启小程序zl</text>
+</view>
+</view>
